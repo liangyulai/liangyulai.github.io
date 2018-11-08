@@ -1,0 +1,24 @@
+---
+
+layout: post
+title:  " setup jekyll "
+date:   2017-12-15 13:00
+categories: jekyll
+tags: jekyll
+excerpt: 
+mathjax: true
+
+---
+
+
+Debian GNU/Linux and Ubuntu use the apt package manager. You can use it like this:
+Ruby version 2.2.5 or above
+
+```$ sudo apt-get install ruby-full```
+
+
+
+```
+gem install jekyll
+gem install jekyll bundler minima jekyll-feed jekyll-paginate
+```
