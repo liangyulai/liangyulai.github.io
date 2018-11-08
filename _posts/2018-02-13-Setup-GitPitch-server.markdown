@@ -1,5 +1,5 @@
 ---
-title: 'Setup Streisand server on Ubuntu 16.04 LTS'
+title: 'Setup GitPitch server on Ubuntu 16.04 LTS'
 date: 2018-02-13 10:00:00
 tags:
   - Gitpitch
