@@ -1,0 +1,47 @@
+---
+layout:     post
+title:      "the article title"
+subtitle:   "sub title(optional)"
+date:       2018-11-19 19:00
+author:     "Liang Yulai"
+header-img: "img/post-bg-2018.jpg"
+tags:
+    - Python C++ Git Shell Linux
+---
+
+# This is a H1 tag
+
+## This is a H2 tag
+
+*This text will be italice*
+_This will also be italice*
+
+**This teext will be bold**
+__This will also be bold__
+
+*You **can** combine them*
+
+## Order/unoder list
+
+* Unordered item 1
+* Unordered item 2
+    * Unordered item 2a
+    * Unordered item 2b
+
+
+1. Ordered item A
+2. Ordered item B
+    1. Ordered item B1
+    2. Ordered item B2
+
+> This is a quote
+
+## Python code sample 
+
+```python
+def func():
+    for i in range(10):
+        print("Hello, Nerd!")
+    print("Bye")
+```
+
