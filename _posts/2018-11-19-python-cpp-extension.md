@@ -97,3 +97,11 @@ kirin@kawagarbo:~/workspace/test$ ./test.py
 hello
 Alex
 ```
+
+## 
+
+[Cython](https://cython.org/)
+[Cython@Github](https://github.com/cython/cython)
+[Cython by Kurt W. Smith](https://www.safaribooksonline.com/library/view/cython/9781491901731/)
+[Cython examples](https://github.com/cythonbook/examples)
+
