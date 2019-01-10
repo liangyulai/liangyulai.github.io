@@ -16,8 +16,22 @@ tags:
 * 一个用户自定义的容器，用户可以对其中的数据提供多组访问接口
 * 容器定义由 boost::multi_index::multi_index_container 来实现
 * 接口的定义由模板类 boost::multi_index::indexed_by 来实现
-* 
  
+
+* [Boost.MultiIndex index types](https://www.boost.org/doc/libs/1_69_0/libs/multi_index/doc/tutorial/indices.html)
+
+Boost.MultiIndex | STL containers | member function
+----|----|----
+key-based | ordered | ordered_unique | std::set | todo
+key-based | ordered | ordered_non_unique | std::multiset | todo
+key-based | ordered | ranked_unique | | 
+key-based | ordered | ranked_non_unique | |
+key-based | hashed | hashed_unique | std::unordered_set  | todo
+key-based | hashed | hashed_non_unique | std::unordered_mutiset | todo
+non-key-based | | sequenced | std::list | todo
+non-key-based | | random_access | | 
+
+
 ### Why we need multi-index container?
 
 
@@ -173,3 +187,4 @@ Print the list randomly:
 [Why you should use Boost.MultiIndex (Part II)](http://david-grs.github.io/why_boost_multi_index_container-part2/)
 [The Boost C++ Libraries](https://theboostcpplibraries.com/boost.multiindex)
 [Boost C++ 库](http://zh.highscore.de/cpp/boost/containers.html#containers_multiindex)
+[Boost Dependency Analyzer](https://www.meetingcpp.com/blog/items/boost-dependency-analyzer.html)
