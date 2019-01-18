@@ -47,7 +47,13 @@ converting base-class pointers into derived-class pointers
 [](https://en.cppreference.com/w/cpp/language/dynamic_cast)
 
 
+--------------------------------------------------
+* C++ container thread safe
 
+[ISO C++ programming language, 1.10 Multi-threaded executions and data races](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3797.pdf)
+[The GNU C++ Library](https://gcc.gnu.org/onlinedocs/libstdc++/index.html)
+[GCC 8.2 manuals](https://gcc.gnu.org/onlinedocs/gcc-8.2.0/gcc/)
+[](https://gcc.gnu.org/onlinedocs/gcc-8.2.0/cpp/)
 --------------------------------------------------
 * Throwing exceptions from constructors
 
